@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedList.h
+LinkedListItem.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListItem.h
+LinkedListException.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListException.h
+
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListException.h
+
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListItem.h
+LinkedListException.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListException.h
+
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/main.cpp
+iostream
+-
+assert.h
+-
+LinkedList.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedList.h
+LinkedListItem.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListItem.h
+LinkedListException.h
+C:/Users/jujun/CLionProjects/project-1-doubly-linked-list-Jonathan-Smith113/LinkedListException.h
+
